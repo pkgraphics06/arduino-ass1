@@ -43,5 +43,7 @@ Expected LED behaviour: blinks 5 times, then 4, then 3, then 2, then 1.
 ## Author
 
 Emmanuel Kwasi Sarkodie 
-Bsc Computer Engineering - LV100, Group A
+
+Bsc Computer Engineering - LV100, Group A.
+
 Index Number 2526400621
